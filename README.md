@@ -16,10 +16,10 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/jefferson.xaxa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1305C?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://wa.me/5569981515108" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-006400?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.jeffersonx470@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jefferson-xaxá-815516b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://instagram.com/jefferson.xaxa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1304C?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://wa.me/5569981515108" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-007000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.jeffersonx470@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c9d1d9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jefferson-xaxá-815516b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Main skills:
