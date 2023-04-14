@@ -13,9 +13,11 @@
 <div align="center"> 
 <a href="https://instagram.com/jefferson.xaxa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-CC2927?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://wa.me/5569981515108" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-217346?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.kaggle.com/jeffersonxaxa/" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-c9d1d9?style=for-the-badge&logo=kaggle&logoColor=blue" style="border-radius: 30px" target="_blank"></a>
 <a href = "mailto:cmp.1a.jeffersonx470@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c9d1d9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jefferson-xaxá-815516b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<a href="https://discord.gg/AgCC64vvN9" target="_blank"><img src="https://img.shields.io/badge/-Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
  
 
  ### Main skills:
