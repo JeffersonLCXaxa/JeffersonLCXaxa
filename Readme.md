@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://github.com/JeffersonLCXaxa">
-     <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a><span>Jefferson Xaxá</span>
+     <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a><span> Jefferson Xaxá</span>
 </h1>
 
 <p align="justify">Graduating in Data Scientist in Fortaleza-CE, Brazil. Bachelor in Business Administration and postgraduate in Management and Fiscal Auditing in the Public Sector. My first "Hello World" was in my teens when I had contact with a little HTML and VBA. 
