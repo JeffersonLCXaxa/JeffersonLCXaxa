@@ -8,11 +8,10 @@
 <p align="justify">Graduating in Data Scientist in Fortaleza-CE, Brazil. Bachelor in Business Administration and postgraduate in Management and Fiscal Auditing in the Public Sector. My first "Hello World" was in my teens when I had contact with a little HTML and VBA. 
 <br><br>
 Passionate about technology, some of my hobbies are gaming, watching and studying.
-<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W">(Lattes)</a>.
-</p>
-<a href="https://git.io/typing-svg">
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W">(Lattes)</a>.<a href="https://git.io/typing-svg">
   <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open to Work">
 </a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 
