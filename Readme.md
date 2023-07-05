@@ -9,10 +9,10 @@
 <br><br>
 Passionate about technology, some of my hobbies are gaming, watching and studying.
 <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W">(Lattes)</a>.
+</p>
 <a href="https://git.io/typing-svg">
   <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open to Work">
 </a>
-</p>
 
 <h3 align="left">Connect with me</h3>
 
@@ -23,8 +23,8 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeffersonlcxaxa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersonlcxaxa&line_height=25&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/jeffersonlcxaxa/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeffersonlcxaxa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=20&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersonlcxaxa&line_height=20&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/jeffersonlcxaxa/github-readme-stats)
 
 
 <h3 align="left">Main skills</h3>
