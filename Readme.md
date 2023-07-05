@@ -25,7 +25,7 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersonlcxaxa&line_height=20&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/jeffersonlcxaxa/github-readme-stats)
 
 
-<h3 align="left">Main skills</h3>
+<h3 align="left">Hard Skills</h3>
 
 [![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927)](https://docs.microsoft.com/en-us/sql/)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://products.office.com/en/excel)
