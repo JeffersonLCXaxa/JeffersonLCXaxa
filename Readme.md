@@ -38,8 +38,8 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 <h3 align="left">GitHub Stats</h3>
 
 <!-- States do GitHub -->
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeffersonlcxaxa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=20&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersonlcxaxa&line_height=20&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/jeffersonlcxaxa/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeffersonlcxaxa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=22&card_width=425&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersonlcxaxa&line_height=20&card_width=358hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/jeffersonlcxaxa/github-readme-stats)
 
 <h3 align="left">Hard Skills</h3>
 
@@ -85,6 +85,16 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 </table>
 <br>
 
+<h3 align="left">Some repositories</h3>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Data_Manipulation_and_Cleaning_with_Python_for_Simple_Algorithm_Data_Science&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Data_Manipulation_and_Cleaning_with_Python_for_Simple_Algorithm_Data_Science)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Integrating_Python_with_SQLite_and_MongoDB&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Integrating_Python_with_SQLite_and_MongoDB)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Fuels-Purchase-and-Sale-in-Brazil-from-2013-to-2020&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Fuels-Purchase-and-Sale-in-Brazil-from-2013-to-2020)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Banking_System_Creating&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Banking_System_Creating)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Package_pyfinance_xaxa&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Package_pyfinance_xaxa)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Projeto-DIO-Lab-Open-Source&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Projeto-DIO-Lab-Open-Source)
+<br><br>
+
 <details align="left">
   <summary></summary> 
  
@@ -92,6 +102,6 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  <br><br>
-  <div align="right">Lovingly crafted by <a href="https://github.com/JeffersonLCXaxa">JX</a>.</div>
+  <div align="right">Lovingly crafted by <a href="https://github.com/JeffersonLCXaxa">Jefferson Xaxá</a>.</div>
 
 </details>
