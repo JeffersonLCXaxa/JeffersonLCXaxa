@@ -58,7 +58,7 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 </a>
 <br><br>
 
-<h3 align="left">My top articles on DIO</h3>
+<h3 align="left">My top articles on <a href="https://www.dio.me/">DIO</a></h3>
 
 <table>
   <thead>
