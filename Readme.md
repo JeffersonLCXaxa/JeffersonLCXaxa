@@ -1,9 +1,9 @@
 <!-- Imagem da direita -->
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" >
 
 <!-- Imagem menor ao lado do nome -->
 <h1>
-    <a href="https://github.com/JeffersonLCXaxa">
+    <a href="https://github.com/JeffersonLCXaxa" target="_blank">
      <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a><span> Jefferson Xaxá</span>
 </h1>
 
@@ -12,18 +12,28 @@
 <br><br>
 Passionate about technology, some of my hobbies are gaming, watching and studying.
 <!-- Link Lattes -->
-<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W">(Lattes)</a>.</p><span></span>
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W" target="_blank">(Lattes)</a>.</p>
 
 <!-- Texto Open to Work -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work" alt="Typing SVG">
+</a>
 
 <h3 align="left">Connect with me</h3>
 
 <!-- Contatos -->
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jeffersonx470@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jefferson-xaxá-815516b0/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/erqSkhex)
-[![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jefferson.xaxa)
+<a href="mailto:jeffersonx470@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/jefferson-xaxá-815516b0/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
+</a>
+<a href="https://discord.gg/erqSkhex" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF" alt="Discord">
+</a>
+<a href="https://www.instagram.com/jefferson.xaxa" target="_blank">
+  <img src="https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram">
+</a>
 
 <h3 align="left">GitHub Stats</h3>
 
@@ -34,10 +44,18 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 <h3 align="left">Hard Skills</h3>
 
 <!-- Hard Skills -->
-[![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927)](https://docs.microsoft.com/en-us/sql/)
-[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://products.office.com/en/excel)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=000000&labelColor=F2C811)](https://powerbi.microsoft.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow&labelColor=3776AB)](https://www.python.org/)
+<a href="https://docs.microsoft.com/en-us/sql/" target="_blank" class="technology-icon">
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927" alt="SQL">
+</a>
+<a href="https://products.office.com/en/excel" target="_blank" class="technology-icon">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&labelColor=217346" alt="Excel">
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" class="technology-icon">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=000000&labelColor=F2C811" alt="Power BI">
+</a>
+<a href="https://www.python.org/" target="_blank" class="technology-icon">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow&labelColor=3776AB" alt="Python">
+</a>
 <br><br>
 
 <h3 align="left">My top articles on DIO</h3>
@@ -56,7 +74,7 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
       <td>30/06/2023</td>
       <td>Transformando dados em ouro: A arte de manipular e limpar dados com Python em ciência de dados - #iFoodDevWeek</td>
       <td align="center">
-        <a href="https://www.dio.me/articles/transformando-dados-em-ouro-a-arte-de-manipular-e-limpar-dados-com-python-em-ciencia-de-dados">
+        <a href="https://www.dio.me/articles/transformando-dados-em-ouro-a-arte-de-manipular-e-limpar-dados-com-python-em-ciencia-de-dados" target="_blank">
            <img align="center" alt="read article" src="https://img.shields.io/badge/read%20article-3776AB?style=for-the-badge">
            <!-- Para icone vermelho: E94D5F -->
         </a>
@@ -70,10 +88,10 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - Badges by <a href="https://shields.io/" target="_blank">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer" target="_blank">storyset - www.freepik.com</a> (edited by author)
  <br><br>
-  <div align="right">Lovingly crafted by <a href="https://github.com/JeffersonLCXaxa">JX</a>.</div>
+  <div align="right">Lovingly crafted by <a href="https://github.com/JeffersonLCXaxa" target="_blank">JX</a>.</div>
 
 </details>
