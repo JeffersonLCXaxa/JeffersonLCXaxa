@@ -12,7 +12,7 @@
 <br><br>
 Passionate about technology, some of my hobbies are gaming, watching and studying.
 <!-- Link Lattes -->
-<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W">(Lattes)</a>.</p>
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2835999J6&tokenCaptchar=03AAYGu2Q1B8lv6YQ0IzcOeQAeQltZZvbhRcLMi0jUygCl250qao4pSX02wBWMF6mAenF_4S3ZHeQXogMF-cAA-Xkzx_0b5Fq1hNaYTjn2i53-1OAPfMv3sxphzqwBOFA7sdcljhOhqpjujS6mGKtu3yjmLXiJWuWOC0HLNzp7NVK-smiJm33RZN6PKTzwsZPLXdeX2WyWHT2rIuBKDaW6n8SS_0QZChVQAE2mWs9-nZcp-oeD08MTJXaSAXq1RMFBi6KqAlyIxSpBMmDLSIb8VYX04R_zJcspzLifbwOyuM1mWAbjKKbw-irLzck7S-3yplGHwflAv9YiQsnunl2T8xuTByh5Ad41SZD_XYwBwHik10kOy92AIcafTvEIWqM1dHkt3AMfNeVodIOq0xd104nWoeN6K8YVe69rI585aVtYCI1Uum-IXHoWt_KvIadDwiir-x1CgjOBekFThtfBU2Mv4bju4x1oEQe65O4X7YLUVWUcmTTTLe2M2yJtxBhzaqVtwoDESZgecvvBO2QoOCqwWpTuyH2GtKZaVGKDjOKgDrigNgxw5qhHUn3LhNIM5IU65h5Vzg9W">(Lattes)</a>.</p><span></span>
 
 <!-- Texto Open to Work -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8de538&size=16&lines=Open+to+Work)](https://git.io/typing-svg)
@@ -22,8 +22,8 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 <!-- Contatos -->
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jeffersonx470@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jefferson-xaxá-815516b0/)
-[![Instagram](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/erqSkhex)
-[![YouTube](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jefferson.xaxa)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/erqSkhex)
+[![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jefferson.xaxa)
 
 <h3 align="left">GitHub Stats</h3>
 
