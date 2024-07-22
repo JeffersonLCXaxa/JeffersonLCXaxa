@@ -93,7 +93,6 @@ Passionate about technology, some of my hobbies are gaming, watching and studyin
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Package_pyfinance_xaxa&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Package_pyfinance_xaxa)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Fuels-Purchase-and-Sale-in-Brazil-from-2013-to-2020&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Fuels-Purchase-and-Sale-in-Brazil-from-2013-to-2020)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Banking_System_Creating&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Banking_System_Creating)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JeffersonLCXaxa&repo=Integrating_Python_with_SQLite_and_MongoDB&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&line_height=20&title_color=FFF&text_color=FFF)](https://github.com/JeffersonLCXaxa/Integrating_Python_with_SQLite_and_MongoDB)
 <br><br>
 
 <details align="left">
